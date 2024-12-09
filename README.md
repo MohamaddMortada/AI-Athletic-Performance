@@ -22,9 +22,12 @@
 
 
 ### User Stories
-- As a user, I want to browse the menu, so I can find my favorite coffee drinks.
-- As a user, I want to customize my order, so I can add or remove ingredients according to my preferences.
-- As a user, I want to pay for my order through the app, so I can avoid waiting in line at the store.
+- As an Athlete, I want real-time feedback on my exercises, so I can correct my form and avoid injuries.
+
+- As an Athlete, I want progress reports that show my performance improvements, so I can stay motivated and adjust my goals.
+
+- As an Athlete, I want to get an accurate prediction of my performance, so I can know my abilities before any compitition.
+
 
 <br><br>
 <!-- Tech stack -->
