@@ -6,10 +6,10 @@
 <img src="./readme/title2.svg"/>
 
 >Purpose
-The app helps athletes improve their training, avoid injuries, and reach their goals by giving them personalized advice based on AI analysis.
+>The app helps athletes improve their training, avoid injuries, and reach their goals by giving them personalized advice based on AI analysis.
 
 >Problem
-Athletes often struggle with tracking progress, preventing injuries, and getting tailored advice. Many tools are expensive or not user-friendly.
+>Athletes often struggle with tracking progress, preventing injuries, and getting tailored advice. Many tools are expensive or not user-friendly.
 
 >Values
 - Personalized: The app provides advice that fits each athlete's unique needs and goals.
@@ -18,7 +18,7 @@ Athletes often struggle with tracking progress, preventing injuries, and getting
 - Empowering: Helps athletes take charge of their progress.
 - Health-Focused: Prioritizes injury prevention and recovery for long-term success.
 >Goal
-The app aims to make advanced training tools available to all athletes, helping them train smarter, stay healthy, and achieve their best.
+>The app aims to make advanced training tools available to all athletes, helping them train smarter, stay healthy, and achieve their best.
 
 
 ### User Stories
