@@ -1,9 +1,9 @@
-[submodule "AIFrontEnd"]
-	path = AIFrontEnd
-	url = https://github.com/MohamaddMortada/AI-Front-End.git
 [submodule "AIBackEnd"]
 	path = AIBackEnd
 	url = https://github.com/MohamaddMortada/AI-Back-End.git
 [submodule "AIDashBoard"]
 	path = AIDashBoard
 	url = https://github.com/MohamaddMortada/AI-Dashboard.git
+[submodule "front_end"]
+	path = front_end
+	url = https://github.com/MohamaddMortada/AI-Front-End
