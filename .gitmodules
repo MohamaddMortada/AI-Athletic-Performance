@@ -7,3 +7,6 @@
 [submodule "front_end"]
 	path = front_end
 	url = https://github.com/MohamaddMortada/AI-Front-End
+[submodule "PythonBackEnd"]
+	path = PythonBackEnd
+	url = https://github.com/MohamaddMortada/AI-Python-BackEnd.git
