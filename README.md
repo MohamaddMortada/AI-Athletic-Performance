@@ -9,13 +9,14 @@
 
 
 ### User Stories
-As an Athlete,
+. As an Athlete,
   - I want real-time feedback on my exercises, so I can correct my form and avoid injuries.
 
   - I want an accurate timing system as that used in professional competitions to know my real times in trainning.
 
   - I want to get an accurate prediction of my performance, so I can know my abilities before any compitition.
-As an Admin,
+    
+. As an Admin,
   - I want to see all things going on on my app, so I can have a detailed analysis of what features athletes are mostly.
    
   - I want to know what age category is this app is aimed to, so I can know what user interface I would be using.
