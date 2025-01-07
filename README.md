@@ -5,28 +5,21 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
->Purpose: 
-- The app helps athletes improve their training, avoid injuries, and reach their goals by giving them personalized advice based on AI analysis.
-
->Problem: 
-- Athletes often struggle with tracking progress, preventing injuries, and getting tailored advice. Many tools are expensive or not user-friendly.
-
->Values: 
-- Personalized: The app provides advice that fits each athlete's unique needs and goals.
-- Accessible: Affordable and easy to use for everyone.
-- Accurate: Uses AI to give precise insights and suggestions.
-- Empowering: Helps athletes take charge of their progress.
-- Health-Focused: Prioritizes injury prevention and recovery for long-term success.
->Goal: 
-- The app aims to make advanced training tools available to all athletes, helping them train smarter, stay healthy, and achieve their best.
-
+AI Athletic Performance helps athletes detect and fix their running technique, give accurate photo finish timing, and predict future results for upcoming competitions.
 
 ### User Stories
-- As an Athlete, I want real-time feedback on my exercises, so I can correct my form and avoid injuries.
+* As an Athlete,
+   - I want real-time feedback on my exercises, so I can correct my form and avoid injuries.
 
-- As an Athlete, I want progress reports that show my performance improvements, so I can stay motivated and adjust my goals.
+   - I want progress reports that show my performance improvements, so I can stay motivated and adjust my goals.
 
-- As an Athlete, I want to get an accurate prediction of my performance, so I can know my abilities before any compitition.
+   - I want to get an accurate prediction of my performance, so I can know my abilities before any compitition.
+
+* As an Admin,
+   - I want to see all things going on on my app, so I can have a detailed analysis of what features athletes are mostly.
+
+   - I want to know what age category is this app is aimed to, so I can know what user interface I would be using.
+   - I want to know kind of athletes this app is aimed to, sprinters, long distance runners or jumpers, so I can add features as it suites the audience.
 
 
 <br><br>
@@ -36,10 +29,11 @@
 ###  Coffee Express is built using the following technologies:
 
 - This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
-- To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
-  - 🚨 Currently, notifications aren't working on macOS. This is a known issue that we are working to resolve!
-- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
+- For the backend, the app uses the [Laravel framework](https://laravel.com/). Laravel uses MVC design pattern and give a very clean code.
+- For AI features, the app uses Python as a backend to create APIs suitable for such features.
+- For persistent storage (database), the app uses the [MySQL](https://www.mysql.com/) package which allows the app to create a custom storage schema and save it to a local database.
+- For the dashboard, the frontend is made of pure [React], and it's deployed online.
+
 
 <br><br>
 <!-- UI UX -->
