@@ -5,28 +5,22 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
->Purpose: 
-- The app helps athletes improve their training, avoid injuries, and reach their goals by giving them personalized advice based on AI analysis.
-
->Problem: 
-- Athletes often struggle with tracking progress, preventing injuries, and getting tailored advice. Many tools are expensive or not user-friendly.
-
->Values: 
-- Personalized: The app provides advice that fits each athlete's unique needs and goals.
-- Accessible: Affordable and easy to use for everyone.
-- Accurate: Uses AI to give precise insights and suggestions.
-- Empowering: Helps athletes take charge of their progress.
-- Health-Focused: Prioritizes injury prevention and recovery for long-term success.
->Goal: 
-- The app aims to make advanced training tools available to all athletes, helping them train smarter, stay healthy, and achieve their best.
+- AI Athletic Performance helps athletes detect and fix their running technique, give accurate photo finish timing, and predict future results for upcoming competitions.
 
 
 ### User Stories
-- As an Athlete, I want real-time feedback on my exercises, so I can correct my form and avoid injuries.
+As an Athlete,
+  - I want real-time feedback on my exercises, so I can correct my form and avoid injuries.
 
-- As an Athlete, I want progress reports that show my performance improvements, so I can stay motivated and adjust my goals.
+  - I want an accurate timing system as that used in professional competitions to know my real times in trainning.
 
-- As an Athlete, I want to get an accurate prediction of my performance, so I can know my abilities before any compitition.
+  - I want to get an accurate prediction of my performance, so I can know my abilities before any compitition.
+As an Admin,
+  - I want to see all things going on on my app, so I can have a detailed analysis of what features athletes are mostly.
+   
+  - I want to know what age category is this app is aimed to, so I can know what user interface I would be using.
+  
+  - I want to know kind of athletes this app is aimed to, sprinters, long distance runners or jumpers, so I can add features as it suites the audience.
 
 
 <br><br>
