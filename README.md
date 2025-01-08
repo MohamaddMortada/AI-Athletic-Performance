@@ -8,7 +8,6 @@
 - AI Athletic Performance helps athletes detect and fix their running technique, give accurate photo finish timing, and predict future results for upcoming competitions.
 
 
-### User Stories
 . As an Athlete,
   - I want real-time feedback on my exercises, so I can correct my form and avoid injuries.
 
