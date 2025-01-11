@@ -5,6 +5,7 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
+<<<<<<< HEAD
 AI Athletic Performance helps athletes detect and fix their running technique, give accurate photo finish timing, and predict future results for upcoming competitions.
 
 ### User Stories
@@ -20,13 +21,31 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
    - I want to know what age category is this app is aimed to, so I can know what user interface I would be using.
    - I want to know kind of athletes this app is aimed to, sprinters, long distance runners or jumpers, so I can add features as it suites the audience.
+=======
+- AI Athletic Performance helps athletes detect and fix their running technique, give accurate photo finish timing, and predict future results for upcoming competitions.
+
+
+. As an Athlete,
+  - I want real-time feedback on my exercises, so I can correct my form and avoid injuries.
+
+  - I want an accurate timing system as that used in professional competitions to know my real times in trainning.
+
+  - I want to get an accurate prediction of my performance, so I can know my abilities before any compitition.
+    
+. As an Admin,
+  - I want to see all things going on on my app, so I can have a detailed analysis of what features athletes are mostly.
+   
+  - I want to know what age category is this app is aimed to, so I can know what user interface I would be using.
+  
+  - I want to know kind of athletes this app is aimed to, sprinters, long distance runners or jumpers, so I can add features as it suites the audience.
+>>>>>>> origin/main
 
 
 <br><br>
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-###  Coffee Express is built using the following technologies:
+###  AI Athletic Performance is built using the following technologies:
 
 - This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
 - For the backend, the app uses the [Laravel framework](https://laravel.com/). Laravel uses MVC design pattern and give a very clean code.
@@ -42,7 +61,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 > We designed Coffee Express using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 
-- Project Figma design [figma](https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1)
+- Project Figma design [figma]([https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1](https://www.figma.com/design/KAZsRwNccV60g4ig9fojpF/Untitled?node-id=45-528&t=VohoaqbpumpH7PGU-0))
 
 
 ### Mockups
