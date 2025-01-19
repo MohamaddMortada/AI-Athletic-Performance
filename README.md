@@ -54,8 +54,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 <br><br>
 
 <!-- Database Design -->
-<img src="./readme/MainPage.png"/>
-<img src="./readme/PredictPage.png"/>
+
 
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
@@ -67,7 +66,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
-<img src="./readme/MainPage.png"/>
+
 
 
 ### User Screens (Mobile)
