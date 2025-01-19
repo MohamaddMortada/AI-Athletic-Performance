@@ -34,7 +34,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 - For AI features, the app uses Python as a backend to create APIs suitable for such features.
 - For persistent storage (database), the app uses the [MySQL](https://www.mysql.com/) package which allows the app to create a custom storage schema and save it to a local database.
 - For the dashboard, the frontend is made of pure [React](https://react.dev/), and it's deployed online.
-- For AI tools, Google Mediapipe (https://mediapipe-studio.webapps.google.com/studio/demo/pose_landmarker), OpenCV (https://opencv.org/), & OpenAI (https://openai.com/index/openai-api/) are used.
+
 
 
 <br><br>
@@ -90,7 +90,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 ###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
-- This project uses Mediapipe and OpenCV to analyze athletes' movements and detect their performance in real time and to give accurate photo finish timing. It also integrates OpenAI to provide smart predictions and feedback, helping athletes improve their running technique, get accurate timing, and plan for future competitions.
+- This project uses Mediapipe(https://mediapipe-studio.webapps.google.com/studio/demo/pose_landmarker) and OpenCV(https://opencv.org/) to analyze athletes' movements and detect their performance in real time and to give accurate photo finish timing. It also integrates OpenAI(https://openai.com/index/openai-api/) to provide smart predictions and feedback, helping athletes improve their running technique, get accurate timing, and plan for future competitions.
 
 <br><br>
 
@@ -101,11 +101,54 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Follow these steps:
+* git clone https://github.com/MohamaddMortada/AI-Athletic-Performance.git
+* Flutter APP:
+   ```sh
+   cd front_end
+   ```
+   ```sh
+   flutter pub get
+   ```
+   ```sh
+   flutter run
+   ```
+* React Dashboard:
+   ```sh
+   cd ../AIDashBoard
+   ```
+   ```sh
+   npm install npm@latest -g
+   ```
+   ```sh
+   npm i axios
+   ```
+   ```sh
+   npm start
+   ```
+* Laravel Backend:
+   ```sh
+   cd ../AIBackEnd
+   ```
+   ```sh
+   composer install
+   ```
+   ```sh
+   php artisan migrate
+   ```
+   ```sh
+   php artisan serve
+   ```
+* Python Backend:
+   ```sh
+   cd ../PythonBackEnd
+   ```
+   ```sh
+   pip install -r requirements.txt
+   ```
+   ```sh
+   python app.py
+   ```
 
 ### Installation
 
