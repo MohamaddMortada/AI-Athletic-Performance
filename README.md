@@ -48,9 +48,9 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 
 ### Mockups
-| Home screen  | AI ChatBot Screen | Predict Screen |
+| Home screen  | AI ChatBot Screen | Detect Screen |
 | ---| ---| ---|
-| ![Landing](./readme/MainPage.png) | ![Detect](./readme/AI ChatBot Page.png) | ![Predict](./readme/PredictPage.png) |
+| ![Landing](./readme/MainPage.png) | ![Detect](./readme/chatbot.png) | ![Detect](./readme/DetectPage.png) |
 
 <br><br>
 
@@ -71,7 +71,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 
 ### User Screens (Mobile)
-| Detect screen  | Main screen | Predict screen 
+| Detect screen  | Photo Finish screen | Predict screen 
 | ---| ---| ---|
 | ![Detect](./readme/calculate.png) | ![Main](./readme/finish.jpeg) | ![fsdaf](./readme/PredictPage.png) |
 | Register screen  | OnBoarding Screen | Login Screen |
