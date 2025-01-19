@@ -49,12 +49,13 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 ### Mockups
 | Home screen  | Menu Screen | Order Screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/MainPage.png) | ![Detect](./readme/DetectPage.png) | ![Predict](./readme/PredictPage.png) |
 
 <br><br>
 
 <!-- Database Design -->
-<img src="./readme/title5.svg"/>
+<img src="./readme/MainPage.png"/>
+<img src="./readme/PredictPage.png"/>
 
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
@@ -66,12 +67,13 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
+<img src="./readme/MainPage.png"/>
 
 
 ### User Screens (Mobile)
 | Login screen  | Register screen | Landing screen | Loading screen |
 | ---| ---| ---| ---|
-| ![Detect](<img src="./readme/Detect Page.svg"/>) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| ![Detect](./readme/MainPage.png) | ![fsdaf](./readme/PredictPage.png) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 | Home screen  | Menu Screen | Order Screen | Checkout Screen |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
