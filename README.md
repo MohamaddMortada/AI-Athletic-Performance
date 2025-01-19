@@ -48,9 +48,9 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 
 ### Mockups
-| Home screen  | Detect Screen | Predict Screen |
+| Home screen  | AI ChatBot Screen | Predict Screen |
 | ---| ---| ---|
-| ![Landing](./readme/MainPage.png) | ![Detect](./readme/DetectPage.png) | ![Predict](./readme/PredictPage.png) |
+| ![Landing](./readme/MainPage.png) | ![Detect](./readme/AI ChatBot Page.png) | ![Predict](./readme/PredictPage.png) |
 
 <br><br>
 
@@ -73,7 +73,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 ### User Screens (Mobile)
 | Detect screen  | Main screen | Predict screen 
 | ---| ---| ---|
-| ![Detect](./readme/DetectPage.png) | ![Main](./readme/MainPage.png) | ![fsdaf](./readme/PredictPage.png) |
+| ![Detect](./readme/calculate.png) | ![Main](./readme/finish.jpeg) | ![fsdaf](./readme/PredictPage.png) |
 | Register screen  | OnBoarding Screen | Login Screen |
 | ![ChatBot](./readme/register.png) | ![ChatBot](./readme/onboarding.png) | ![Calculate](./readme/login.png) | 
 
@@ -154,16 +154,13 @@ Follow these steps:
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [example](https://example.com)
+1. Get an API Key at [https://platform.openai.com/api-keys]
 2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
-3. Install NPM packages
+   git clone [github](https://github.com/MohamaddMortada/AI-Athletic-Performance.git)
+3. Check Prerequisites.
+4. Enter your API in `.env`
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   API_KEY = YOUR-API-KEY
    ```
 
-Now, you should be able to run Coffee Express locally and explore its features.
+Now, you should be able to run AI ATHLETIC PERFORMANCE locally and explore its features.
