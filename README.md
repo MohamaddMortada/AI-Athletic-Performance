@@ -22,24 +22,6 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
    - I want to know what age category is this app is aimed to, so I can know what user interface I would be using.
    - I want to know kind of athletes this app is aimed to, sprinters, long distance runners or jumpers, so I can add features as it suites the audience.
 =======
-- AI Athletic Performance helps athletes detect and fix their running technique, give accurate photo finish timing, and predict future results for upcoming competitions.
-
-
-. As an Athlete,
-  - I want real-time feedback on my exercises, so I can correct my form and avoid injuries.
-
-  - I want an accurate timing system as that used in professional competitions to know my real times in trainning.
-
-  - I want to get an accurate prediction of my performance, so I can know my abilities before any compitition.
-    
-. As an Admin,
-  - I want to see all things going on on my app, so I can have a detailed analysis of what features athletes are mostly.
-   
-  - I want to know what age category is this app is aimed to, so I can know what user interface I would be using.
-  
-  - I want to know kind of athletes this app is aimed to, sprinters, long distance runners or jumpers, so I can add features as it suites the audience.
->>>>>>> origin/main
-
 
 <br><br>
 <!-- Tech stack -->
@@ -51,7 +33,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 - For the backend, the app uses the [Laravel framework](https://laravel.com/). Laravel uses MVC design pattern and give a very clean code.
 - For AI features, the app uses Python as a backend to create APIs suitable for such features.
 - For persistent storage (database), the app uses the [MySQL](https://www.mysql.com/) package which allows the app to create a custom storage schema and save it to a local database.
-- For the dashboard, the frontend is made of pure [React], and it's deployed online.
+- For the dashboard, the frontend is made of pure [React](https://react.dev/), and it's deployed online.
 
 
 <br><br>
@@ -89,7 +71,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 ### User Screens (Mobile)
 | Login screen  | Register screen | Landing screen | Loading screen |
 | ---| ---| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| ![Detect](<img src="./readme/Detect Page.svg"/>) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 | Home screen  | Menu Screen | Order Screen | Checkout Screen |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
