@@ -34,6 +34,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 - For AI features, the app uses Python as a backend to create APIs suitable for such features.
 - For persistent storage (database), the app uses the [MySQL](https://www.mysql.com/) package which allows the app to create a custom storage schema and save it to a local database.
 - For the dashboard, the frontend is made of pure [React](https://react.dev/), and it's deployed online.
+- For AI tools, Google Mediapipe (https://mediapipe-studio.webapps.google.com/studio/demo/pose_landmarker), OpenCV (https://opencv.org/), & OpenAI (https://openai.com/index/openai-api/) are used.
 
 
 <br><br>
@@ -47,7 +48,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 
 ### Mockups
-| Home screen  | Menu Screen | Order Screen |
+| Home screen  | Detect Screen | Predict Screen |
 | ---| ---| ---|
 | ![Landing](./readme/MainPage.png) | ![Detect](./readme/DetectPage.png) | ![Predict](./readme/PredictPage.png) |
 
@@ -59,7 +60,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
 - Insert ER Diagram here
-
+<img src="./readme/erd.png"/>
 
 <br><br>
 
@@ -70,18 +71,16 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 
 ### User Screens (Mobile)
-| Login screen  | Register screen | Landing screen | Loading screen |
-| ---| ---| ---| ---|
-| ![Detect](./readme/MainPage.png) | ![fsdaf](./readme/PredictPage.png) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| Detect screen  | Main screen | Predict screen 
+| ---| ---| ---|
+| ![Detect](./readme/DetectPage.png) | ![Main](./readme/MainPage.png) | ![fsdaf](./readme/PredictPage.png) |
+| Register screen  | OnBoarding Screen | Login Screen |
+| ![ChatBot](./readme/register.png) | ![ChatBot](./readme/onboarding.png) | ![Calculate](./readme/login.png) | 
 
 ### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
-| ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Menu Screen | Order Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Dashboard Screen  |
+| ---|
+| ![DAshboard](./readme/dashboard.png) |
 
 <br><br>
 
@@ -91,28 +90,9 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 ###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
-- This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
+- This project uses Mediapipe and OpenCV to analyze athletes' movements and detect their performance in real time and to give accurate photo finish timing. It also integrates OpenAI to provide smart predictions and feedback, helping athletes improve their running technique, get accurate timing, and plan for future competitions.
 
 <br><br>
-
-<!-- AWS Deployment -->
-<img src="./readme/title8.svg"/>
-
-###  Efficient AI Deployment: Unleashing the Potential with AWS Integration:
-
-- This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
-
-<br><br>
-
-<!-- Unit Testing -->
-<img src="./readme/title9.svg"/>
-
-###  Precision in Development: Harnessing the Power of Unit Testing:
-
-- This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
-
-<br><br>
-
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
