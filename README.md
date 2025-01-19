@@ -47,10 +47,10 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 - Project Figma design [figma]([https://www.figma.com/file/LsuOx5Wnh5YTGSEtrgvz4l/Purrfect-Pals?type=design&node-id=257%3A79&mode=design&t=adzbABt5hbb91ucZ-1](https://www.figma.com/design/KAZsRwNccV60g4ig9fojpF/Untitled?node-id=45-528&t=VohoaqbpumpH7PGU-0))
 
 
-### Mockups
-| Home screen  | AI ChatBot Screen | Detect Screen |
+### Mockups 
+| AI ChatBot Screen | Home screen | Detect Screen |
 | ---| ---| ---|
-| ![Landing](./readme/MainPage.png) | ![Detect](./readme/chatbot.png) | ![Detect](./readme/DetectPage.png) |
+| ![Detect](./readme/chatbot.png) | ![Landing](./readme/MainPage.png) | ![Detect](./readme/DetectPage.png) |
 
 <br><br>
 
