@@ -80,7 +80,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 ### Admin Screens (Web)
 | Dashboard Screen  |
 | ---|
-| ![DAshboard](./readme/dashboard.png) |
+| ![DAshboard](./readme/dash.png) |
 
 <br><br>
 
