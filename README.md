@@ -50,7 +50,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 ### Mockups 
 | AI ChatBot Screen | Home screen | Detect Screen |
 | ---| ---| ---|
-| ![Detect](./readme/chatbot.png) | ![Landing](./readme/MainPage.png) | ![Detect](./readme/DetectPage.png) |
+| ![Detect](./readme/chatbot-screen.png) | ![Landing](./readme/MainPage.png) | ![Detect](./readme/DetectPage.png) |
 
 <br><br>
 
@@ -73,10 +73,10 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 ### User Screens (Mobile)
 | Detect screen  | Photo Finish screen | Predict screen 
 | ---| ---| ---|
-| ![Detect](./readme/calculate.png) | ![Main](./readme/finish.jpeg) | ![fsdaf](./readme/PredictPage.png) |
+| ![Detect](./readme/calculate.png) | ![Photo-Finish](./readme/finish.jpeg) | ![Predict](./readme/PredictPage.png) |
 | Detect screen  | OnBoarding Screen | Photo Finish Screen |
 | ---| ---| ---|
-| ![Detect](readme/detectGif.gif) | ![ChatBot](./readme/onboarding.png) | ![Finish](readme/finish.gif) | 
+| ![Detect](readme/detectGif.gif) | ![Calculate](./readme/calculate-gif.png) | ![Finish](readme/finish.gif) | 
 | Validate screen  | Detect Screen | Generate Screen |
 | ---| ---| ---|
 | ![Validate](readme/validate.png) | ![Detect](./readme/hop.png) | ![Generate](readme/generate.png) |
