@@ -92,7 +92,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 - This project uses Mediapipe(https://mediapipe-studio.webapps.google.com/studio/demo/pose_landmarker) and OpenCV(https://opencv.org/) to analyze athletes' movements and detect their performance in real time and to give accurate photo finish timing. It also integrates OpenAI(https://openai.com/index/openai-api/) to provide smart predictions and feedback, helping athletes improve their running technique, get accurate timing, and plan for future competitions.
 
-| Getting in a human body detection  |
+| Getting into a human body detection  |
 | --- |
 | ![code](./readme/code.png) |
 
