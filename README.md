@@ -94,10 +94,17 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 <br><br>
 
+<!-- AWS Deployment -->
+<img src="./readme/title9.svg"/>
+
+- This project is deployed on AWS to make it accessible and reliable for users. AWS provides a secure and fast platform, ensuring the app runs smoothly. It was deployed using [EC2 Instance] for easy management and monitoring.
+
+<br><br>
+
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> To set up AI Athletic Performance locally, follow these steps:
 
 ### Prerequisites
 
