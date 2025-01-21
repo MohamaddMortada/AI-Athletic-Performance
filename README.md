@@ -76,7 +76,7 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 | ![Detect](./readme/calculate.png) | ![Photo-Finish](./readme/finish.jpeg) | ![Predict](./readme/PredictPage.png) |
 | Detect screen  | OnBoarding Screen | Photo Finish Screen |
 | ---| ---| ---|
-| ![Detect](readme/detectGif.gif) | ![Calculate](./readme/calculate-gif.png) | ![Finish](readme/finish.gif) | 
+| ![Detect](readme/detectGif.gif) | ![Calculate](./readme/calculate-gif.gif) | ![Finish](readme/finish.gif) | 
 | Validate screen  | Detect Screen | Generate Screen |
 | ---| ---| ---|
 | ![Validate](readme/validate.png) | ![Detect](./readme/hop.png) | ![Generate](readme/generate.png) |
