@@ -108,6 +108,11 @@ AI Athletic Performance helps athletes detect and fix their running technique, g
 
 - This project is deployed on AWS to make it accessible and reliable for users. AWS provides a secure and fast platform, ensuring the app runs smoothly. It was deployed using [EC2 Instance] for easy management and monitoring.
 
+| Register screen  | Login Screen |
+| ![Validate](readme/register-screen.png) | ![Detect](./readme/login-screen.png) | 
+| Generate Key screen  | Get Users Screen |
+| ![Validate](readme/generate-screen.png) | ![Detect](./readme/users-screen.png) | 
+
 <br><br>
 
 <!-- How to run -->
