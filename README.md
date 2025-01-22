@@ -154,7 +154,13 @@ Follow these steps:
    cd ../AIBackEnd
    ```
    ```sh
+   php install
+   ```
+   ```sh
    composer install
+   ```
+   ```sh
+   mysql install
    ```
    ```sh
    php artisan migrate
